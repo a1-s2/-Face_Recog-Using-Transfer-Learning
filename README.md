@@ -1,1 +1,1 @@
-# Face_Recog Using Transfer Learning 
+# Face_Recognition Using Transfer Learning 
